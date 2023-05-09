@@ -179,7 +179,7 @@ Example:
 - GitHub: [@ClaudiaRojasSoto](https://github.com/ClaudiaRojasSoto)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/claudia-soto-260504208/)
 
-👤 **Claudia Rojas**
+👤 **Ali**
 
 - GitHub: [@Alibaba2023](https://github.com/Alibaba2023)
 
@@ -222,10 +222,6 @@ I would like to thank...
 <p> * Microverse for providing the opportunity to learn Git and GitHub in a collaborative environment.</p>
 <p> * GitHub Docs for providing a wealth of information on Git and GitHub.</p>
 <p> * Special thanks to Bootstrap for providing a free and powerful CSS framework.</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
