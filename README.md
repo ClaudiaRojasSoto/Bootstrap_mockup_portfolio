@@ -51,9 +51,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [portfolio_1] <a name="about-project"></a>
+# 📖 [Bootstrap_mockup_portfolio] <a name="about-project"></a>
 
-**[Portfolio_1]** 
+**[Bootstrap_mockup_portfolio]** 
 This project create a mockup using Bootstrap classes. Showcase abilities to use the tools of the bootstrap framework for the implementation of a working model in a short time in addition to collaborative work.
 
 ## 🛠 Built With <a name="built-with"></a>
