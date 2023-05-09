@@ -142,18 +142,6 @@ Example command:
 ```
 --->
 
-### Run tests
-
-To run tests, run the following command:
-
-  npm test
-
-<!--
-Example command:
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
