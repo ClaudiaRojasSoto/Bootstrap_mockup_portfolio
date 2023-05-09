@@ -264,7 +264,7 @@
                                 </div>
                             </li>
                             <li class="mb-3">
-                                <ul class="list-unstyled d-flex flex-row gap-3">
+                                <ul class="list-unstyled d-flex flex-column gap-3">
                                     <li>
                                         <img src="./img/js.svg" alt="" />
                                         JavaScript
@@ -307,9 +307,9 @@
             </div>
         </section>
 
-        <section style="background-color: blue;">
-            <div class="d-flex flex-column align-items-center text-white">
-                <p class="fs-4 my-5">Contact me</p>
+        <section class="bg-primary text-white my-5">
+            <div class="d-flex flex-column align-items-center">
+                <p class="fs-4 my-5 text-center">Contact me</p>
                 <p class="text-center my-4">
                     If you have an application you are interested in developing, a feature
                     that you need built or a project that needs coding. I’d love to help
@@ -318,16 +318,13 @@
                 <form action="https://formspree.io/f/mayzvngy" method="POST">
                     <ul class="list-unstyled">
                         <li class="mb-3">
-                            <input class="form-control" type="text" name="name" placeholder="Lorem Ipsum" maxlength="30"
-                                required pattern="[a-zA-Z\s]{1,30}" />
+                            <input class="form-control" type="text" name="name" placeholder="Lorem Ipsum" maxlength="30" required pattern="[a-zA-Z\s]{1,30}" />
                         </li>
                         <li class="mb-3">
-                            <input class="form-control" type="email" name="email" placeholder="loremipsum@gmail.com"
-                                required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" />
+                            <input class="form-control" type="email" name="email" placeholder="loremipsum@gmail.com" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" />
                         </li>
                         <li class="mb-3">
-                            <textarea class="form-control" name="message" id="id-textarea" cols="30" rows="7"
-                                placeholder="Write your message here..." maxlength="500" required></textarea>
+                            <textarea class="form-control" name="message" cols="30" rows="7" placeholder="Write your message here..." maxlength="500" required></textarea>
                         </li>
                         <li class="d-grid gap-2">
                             <button class="btn btn-primary btn-sm bg-white text-primary" type="submit">
@@ -338,6 +335,9 @@
                 </form>
             </div>
         </section>
+        
+        
+        
 
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
